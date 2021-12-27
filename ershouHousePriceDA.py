@@ -1,3 +1,6 @@
+# @Site   :  https://github.com/hugowong88/ershouHouseDA_gz
+# @Author :  数人之道(datamanroad)
+
 import requests, time
 from bs4 import BeautifulSoup
 import re
